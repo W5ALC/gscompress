@@ -1,5 +1,5 @@
 # gscompress
-gscompress is a simple script to compress all .PDF files in a directory using ghostscript.
+gscompress is a simple script to compress all .PDF files in a directory using ghostscript.  This can reduce .PDF file sizes by 50% or more!
 
 All you have to do is run chmod +x ./gscompress from the directory containing the file and then move it to /usr/local/bin/ to be able to run it from anywhere.
 
